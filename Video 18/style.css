@@ -1,0 +1,16 @@
+.box{
+    color:aqua;
+    padding: 10px;
+    border: 2px dashed rgb(10, 243, 161);
+    margin:5px;
+    height: 100px;
+}
+.box1{
+    background-color: rgb(78, 78, 177);   
+    box-sizing: border-box
+    
+}
+
+.box2{
+    background-color: rgb(126, 80, 169);
+}
