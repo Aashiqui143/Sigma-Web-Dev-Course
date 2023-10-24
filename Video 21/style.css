@@ -1,0 +1,23 @@
+*{
+    background-color: aqua;
+}
+h1{
+    background-color: rgb(46, 46, 184);
+}
+
+.green{
+    background-color: cadetblue;
+}
+#grey{
+    background-color: darkgreen !important;
+}
+[data-x=a]{
+    background-color: blueviolet;
+}
+.red{
+    background-color: brown;
+}
+
+#id2{
+    background-color: rgb(111, 12, 96) !important;
+}
